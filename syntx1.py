@@ -19,8 +19,7 @@ def categorise_age(age):
   
      age = int(input("enter your name"))
      generation = categorise_age(age)
-     print (f"you belong to: {generation}") 
-     
+     print (f"you belong to: {generation}x") 
      
    # except valueError:
    #  print ("please put a valid age")
